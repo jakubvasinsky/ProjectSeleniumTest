@@ -5,3 +5,34 @@
 53:27.640 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\86.0.622.38\msedgedriver.exe
 54:00.120 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 86.0.622.38 (resolved driver for Edge 86)
 54:00.172 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\86.0.622.38\msedgedriver.exe
+51:47.819 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+51:47.879 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+51:50.819 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Downloading https://msedgedriver.azureedge.net/88.0.705.50/edgedriver_win64.zip
+51:56.380 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Extracting driver from compressed file edgedriver_win64.zip
+51:56.699 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+54:16.598 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+54:16.624 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+00:45.672 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+00:45.703 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+18:30.527 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+18:30.557 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+47:42.431 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+47:42.458 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+48:14.995 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+48:15.20 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+48:59.935 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+48:59.955 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+49:23.625 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+49:23.655 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+50:28.204 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+50:28.234 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+52:20.243 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+52:20.279 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+53:06.773 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+53:06.812 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+56:51.739 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+56:51.794 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+59:28.791 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+59:28.821 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+59:55.761 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
+59:55.791 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe

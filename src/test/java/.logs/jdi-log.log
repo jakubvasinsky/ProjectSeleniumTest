@@ -49,3 +49,5 @@
 09:08.494 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe
 19:21.99 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.53 (resolved driver for Edge 88)
 19:21.209 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe
+21:24.296 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.53 (resolved driver for Edge 88)
+21:24.374 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe

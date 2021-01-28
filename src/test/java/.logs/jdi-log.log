@@ -36,3 +36,14 @@
 59:28.821 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
 59:55.761 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.50 (resolved driver for Edge 88)
 59:55.791 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.50\msedgedriver.exe
+05:00.113 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.53 (resolved driver for Edge 88)
+05:00.224 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+05:01.882 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Downloading https://msedgedriver.azureedge.net/88.0.705.53/edgedriver_win64.zip
+05:06.539 [io.github.bonigarcia.wdm.online.Downloader:INFO]: Extracting driver from compressed file edgedriver_win64.zip
+05:06.988 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe
+06:33.139 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.53 (resolved driver for Edge 88)
+06:33.245 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe
+08:28.01 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.53 (resolved driver for Edge 88)
+08:28.87 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe
+09:08.390 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Using msedgedriver 88.0.705.53 (resolved driver for Edge 88)
+09:08.494 [io.github.bonigarcia.wdm.WebDriverManager:INFO]: Exporting webdriver.edge.driver as C:\Users\Jakub\.cache\selenium\msedgedriver\win64\88.0.705.53\msedgedriver.exe

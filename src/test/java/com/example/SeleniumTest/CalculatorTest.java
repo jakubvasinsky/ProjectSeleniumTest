@@ -149,16 +149,9 @@ public class CalculatorTest {
     driver.findElement(By.id("period")).click();
     driver.findElement(By.name("tax")).click();
     driver.findElement(By.id("btnsubmit")).click();
-  }
-  {
-    WebElement errorMessage1 = driver.findElement(By.xpath("//*[@id=\"error\"]/text()[1]"));
-    WebElement errorMessage2 = driver.findElement(By.xpath("//*[@id=\"error\"]/text()[2]"));
-    WebElement errorMessage3 = driver.findElement(By.xpath("//*[@id=\"error\"]/text()[3]"));
 
-    errorMessage1.equals("Amount must be a number between 0 and 1000000 !");
-    errorMessage2.equals("Interest must be a number between 0 and 100 !");
-    errorMessage3.equals("You must agree to the processing !");
-  }
+      }
+
 
 
 }
